@@ -4,7 +4,7 @@ Hello! My name is *Lakshit Ramani, a 2nd-year CSE student at NIT, passionate abo
 I enjoy exploring new technologies, participating in hackathons, and working on innovative projects.
 
 ---
-##image
+## image
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
@@ -26,8 +26,8 @@ I enjoy exploring new technologies, participating in hackathons, and working on 
    Implemented ML techniques like KNN and Bayesian classifiers using the Iris dataset.
    
 ## Contact
-| Platform Name  |  Details |
-| :---     |      ---:   |
-| Email    |  [lakshitr@example.com](mailto:lakshitr@example.com)    |
-| GitHub   | [github.com/LakshitRamani](https://github.com/LakshitRamani)    |
-
+| Platform Name  | Details |
+| :------------- | ------: |
+| Email          | [lakshitr@example.com](mailto:lakshitr@example.com) |
+| GitHub         | [github.com/LakshitRamani](https://github.com/LakshitRamani) |
+| LinkedIn       | [linkedin.com/in/lakshitramani](https://linkedin.com/in/lakshitramani) |
